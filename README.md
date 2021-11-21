@@ -1,5 +1,13 @@
-https://list.iptvcat.com/my_list/s/bcf1d16bf0ce3332b6300dd628ec580b.m3u8
-https://list.iptvcat.com/my_list/s/382705afc96a7416f808bb10dda385cb.m3u8
-https://list.iptvcat.com/my_list/s/4025b723cbe1d79dbde748a9f10288c3.m3u8
-https://list.iptvcat.com/my_list/s/7dce54af31795b191bfc60f6e1c0bb3c.m3u8
-https://list.iptvcat.com/my_list/0955f777802b4bf46fed68f44832d7de.m3u8
+#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 1 HD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75478?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 2 FHD¹
+http://s.pdsrv.io:80/mbkbdhjh/1acxGPz248/75992?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 2 HD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75479?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 2 SD¹
+http://s.pdsrv.io:80/mbkbdhjh/1acxGPz248/75991?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE CLUBES HD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80057?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere Clubes HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/32964?checkedby:iptvcat.com
